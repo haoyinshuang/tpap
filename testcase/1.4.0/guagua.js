@@ -67,7 +67,9 @@
             //刮开的像素是否达到指定比例
                 isOver = function() {
                     var data = ctx.getImageData(0, 0, w, h).data;
-
+					
+					console.log(data.length);
+					
                     //剩余像素（未被刮开）点数。#CCC ,255
                     for (var i = 0, j = 0, k = 0; i < data.length; i += 4,k++) {
                         if ((data[i] == color.r) && (data[i + 1] == color.g) && (data[i + 2] == color.b) && (data[i + 3] == color.a)) {
