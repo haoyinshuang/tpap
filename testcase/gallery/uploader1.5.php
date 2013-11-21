@@ -6,6 +6,7 @@
     用户的javascript理论上只可以作用到这个dom下面，不可以"越界"
 -->
 <div class="J_TScriptedModule" data-componentid="uniqueSign">
+<p>时间紧迫，适配了最简功能，适配了ImageUploader主题</p>
 <div class="grid">
     <input type="file" class="g-u" id="J_UploaderBtn" value="上传图片" name="Filedata" accept="image/*" >
     <input type="hidden" id="J_Urls" name="urls" value="" />
