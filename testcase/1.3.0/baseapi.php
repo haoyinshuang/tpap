@@ -18,6 +18,89 @@
     <!--    <div id="mapDiv" style="width:800px;height:600px"></div>-->
     <a>test1</a>
     <a>test2</a>
+    <a>test2</a>
+    <a>test2</a>
+    <a>test2</a>
+    <a>test2</a>
+    <a>test2</a>
+    <a>test2</a>
+    <a>test2</a>
+    <a>test2</a>
+    <a>test2</a>
+    <a>test2</a>
+    <a>test2</a>
+    <a>test2</a>
+    <a>test2</a>
+    <a>test2</a>
+    <a>test2</a>
+    <a>test2</a>
+    <a>test2</a>
+    <a>test2</a>
+    <a>test2</a>
+    <a>test2</a>
+    <a>test2</a>
+    <a>test2</a>
+    <a>test2</a>
+    <a>test2</a>
+    <a>test2</a>
+    <a>test2</a>
+    <a>test2</a>
+    <a>test2</a>
+    <a>test2</a>
+    <a>test2</a>
+    <a>test2</a>
+    <a>test2</a>
+    <a>test2</a>
+    <a>test2</a>
+    <a>test2</a>
+    <a>test2</a>
+    <a>test2</a>
+    <a>test2</a>
+    <a>test2</a>
+    <a>test2</a>
+    <a>test2</a>
+    <a>test2</a>
+    <a>test2</a>
+    <a>test2</a>
+    <a>test2</a>
+    <a>test2</a>
+    <a>test2</a>
+    <a>test2</a>
+    <a>test2</a>
+    <a>test2</a>
+    <a>test2</a>
+    <a>test2</a>
+    <a>test2</a>
+    <a>test2</a>
+    <a>test2</a>
+    <a>test2</a>
+    <a>test2</a>
+    <a>test2</a>
+    <a>test2</a>
+    <a>test2</a>
+    <a>test2</a>
+    <a>test2</a>
+    <a>test2</a>
+    <a>test2</a>
+    <a>test2</a>
+    <a>test2</a>
+    <a>test2</a>
+    <a>test2</a>
+    <a>test2</a>
+    <a>test2</a>
+    <a>test2</a>
+    <a>test2</a>
+    <a>test2</a>
+    <a>test2</a>
+    <a>test2</a>
+    <a>test2</a>
+    <a>test2</a>
+    <a>test2</a>
+    <a>test2</a>
+    <a>test2</a>
+    <a>test2</a>
+    <a>test2</a>
+    <a>test2</a>
     <input type="text" value="landao" class="inputcls">
     <div class="dom-father">
         <div class="dom-child1"></div>
@@ -59,7 +142,7 @@
 <script type="text/javascript">
 
     cajaConfig = {//配置下你需要引入的模块名称，最后会被use到
-        modules: "openjs/kissy/1.3.0/core"
+        modules: "openjs/kissy/1.3.0/core,openjs/gs/1.0/index"
     }
 
 </script>

@@ -651,7 +651,7 @@ KISSY.add(function (S, Calendar) {
                     }
 
                     if (url) {
-                        return S.io(S.mix(untamedcfg));
+                        return S.io(untamedcfg);
                     } else {
                         return function () {
                             S.log('url 不在白名单中.')
