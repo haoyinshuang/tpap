@@ -34,6 +34,7 @@
     <li><a href="./gallery/wkeditor1.0.php">富文本编辑器</a></li>
     <li><a href="./gallery/fluidLayout.php">瀑布流组件</a></li>
     <li><a href="./gallery/snakeslider1.0.php">轮播组件(cool)</a></li>
+	<li><a href="./gallery/drawingPad1.0.php">图片合成组件drawingPad</a></li>
 </ul>
 
 
