@@ -1,5 +1,3 @@
-	//console.log(KISSY);
-    //console.log(KISSY.Stepbar());
 
     var $ = KISSY.all;
 
